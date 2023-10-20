@@ -4,6 +4,8 @@
 ```bash
 git clone https://github.com/NikSerdu/React-typescript-template.git
 mv React-typescript-template frontend
+cd frontend
+rm -r .git
 ```
 
 # Packages
