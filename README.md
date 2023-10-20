@@ -1,14 +1,12 @@
-#React typescript template
+# React typescript template
 
-#Install
-
+# Install
 ```bash
 git clone https://github.com/NikSerdu/React-typescript-template.git
 mv React-typescript-template frontend
 ```
 
-#Packages
-
+# Packages
 - redux toolkit
 - tailwind
 - axios
